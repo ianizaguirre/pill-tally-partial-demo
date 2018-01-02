@@ -1,6 +1,10 @@
 
+
+# Context
 **Pill Tally** is a hackathon project I developed during KnightHacks 2017.
+
 &nbsp;
+
 KnightHacks is a 24-hour hackathon at the University of Central Florida (UCF), which took place the weekend of Saturday, October 7th to Sunday, October 8th.
 
 The mission of Knight Hacks is to empower students to do something they've never done before.
